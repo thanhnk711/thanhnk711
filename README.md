@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nguyễn Kỳ Thanh
 =======================================================================================================================================
 
-All in one Engineer
+All in one Engineer 
 -------------------
 
 *   🌍  I'm based in Hồ Chí Minh City
@@ -18,26 +18,6 @@ All in one Engineer
 
 <a href="http://www.github.com/thanhnk711"><img src="https://github-readme-stats.vercel.app/api?username=thanhnk711&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="thanhnk711's GitHub stats" /></a>
 <a href="http://www.github.com/thanhnk711"><img src="https://github-readme-streak-stats.herokuapp.com/?user=thanhnk711&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<img align="right" height="150" src="https://giphy.com/embed/KGhpQ5NMoWKQurlHwI"/>
-
-
-### 
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
-###
 
 <ul style="list-style-type: none; margin: 0;">
 <a href="https://www.buymeacoffee.com/thanhnk"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a>
